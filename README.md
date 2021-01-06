@@ -1,1 +1,1 @@
-# Clustering-and-sementing
+# Clustering-and-segmenting
